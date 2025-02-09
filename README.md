@@ -46,8 +46,7 @@ This is a small personal project to demonstrate my skills in web development. Fe
 
 ## Contact:
 
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email Address]
+- **Email**: sohit.bcastudent24.28806@cimage.in
 
 ---
 
